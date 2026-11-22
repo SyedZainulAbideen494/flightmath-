@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="FlightMath">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#473027"/>
+      <stop offset="1" stop-color="#191714"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9B879"/>
+      <stop offset="1" stop-color="#D78D60"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#F0E4D1" stroke-opacity="0.18" stroke-width="1.5"/>
+  <path d="M32 13 L36.6 29.4 L51 32 L36.6 34.6 L32 51 L27.4 34.6 L13 32 L27.4 29.4 Z" fill="url(#mark)"/>
+  <circle cx="32" cy="32" r="3.2" fill="#191714"/>
+</svg>
